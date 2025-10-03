@@ -63,5 +63,18 @@
     "gold": "Stable",
     "riskMode": "Neutral",
     "explanation": "Bank of Japan نے اپنی interest rate -0.1% پر برقرار رکھی۔ مارکیٹ نے کوئی بڑا ردعمل نہیں دیا کیونکہ یہ already expected تھا۔"
+  },
+  {
+    "date": "Mon, Sep 8 11:30 AM",
+    "currency": "JPY",
+    "report": "BoJ Policy Rate",
+    "actual": -0.1,
+    "forecast": -0.1,
+    "previous": -0.1,
+    "marketImpact": "کوئی تبدیلی نہیں → Neutral effect",
+    "dollar": "Stable",
+    "gold": "Stable",
+    "riskMode": "Neutral",
+    "explanation": "Bank of Japan نے اپنی interest rate -0.1% پر برقرار رکھی۔ مارکیٹ نے کوئی بڑا ردعمل نہیں دیا کیونکہ یہ already expected تھا۔"
   }
 ]
