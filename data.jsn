@@ -1,0 +1,67 @@
+[
+  {
+    "date": "Tue, Sep 2 10:00 AM",
+    "currency": "USD",
+    "report": "ISM Manufacturing PMI",
+    "actual": 48.7,
+    "forecast": 49.0,
+    "previous": 48.0,
+    "marketImpact": "Actual 50 سے نیچے → Economy contraction",
+    "dollar": "Weak (down)",
+    "gold": "Strong (up)",
+    "riskMode": "❌ Risk Off",
+    "explanation": "ISM Manufacturing PMI اگر 50 سے کم ہو تو Contraction کو ظاہر کرتا ہے۔ اس بار 48.7 آیا جو forecast (49.0) سے بھی کم ہے، اس لیے Dollar کمزور ہوا اور Gold اوپر گیا۔"
+  },
+  {
+    "date": "Wed, Sep 3 3:00 PM",
+    "currency": "EUR",
+    "report": "CPI y/y",
+    "actual": 2.5,
+    "forecast": 2.7,
+    "previous": 2.6,
+    "marketImpact": "کم inflation → ECB پر rate cut کا دباؤ",
+    "dollar": "Mixed",
+    "gold": "Stable",
+    "riskMode": "✅ Risk On",
+    "explanation": "Eurozone CPI توقع سے کم آیا (2.5% vs 2.7%)۔ اس کا مطلب ہے ECB inflation پر قابو پا رہا ہے، اور future میں rate cuts ممکن ہیں۔"
+  },
+  {
+    "date": "Thu, Sep 4 8:30 AM",
+    "currency": "GBP",
+    "report": "GDP q/q",
+    "actual": 0.6,
+    "forecast": 0.5,
+    "previous": 0.4,
+    "marketImpact": "Growth توقع سے بہتر",
+    "dollar": "Weak",
+    "gold": "Down",
+    "riskMode": "✅ Risk On",
+    "explanation": "UK GDP توقع سے بہتر آیا (0.6%) جو 0.5% forecast سے اوپر ہے۔ اس سے Pound مضبوط ہوا اور Gold نیچے گیا کیونکہ risk sentiment بہتر ہوا۔"
+  },
+  {
+    "date": "Fri, Sep 5 2:00 PM",
+    "currency": "USD",
+    "report": "Non-Farm Payrolls (NFP)",
+    "actual": 170000,
+    "forecast": 180000,
+    "previous": 160000,
+    "marketImpact": "توقع سے کم → Jobs market سست",
+    "dollar": "Weak",
+    "gold": "Up",
+    "riskMode": "❌ Risk Off",
+    "explanation": "NFP result 170k آیا جو forecast (180k) سے کم ہے، یہ US labor market میں slowdown کو ظاہر کرتا ہے۔ اس سے Dollar پر دباؤ آیا اور Gold اوپر گیا۔"
+  },
+  {
+    "date": "Mon, Sep 8 11:30 AM",
+    "currency": "JPY",
+    "report": "BoJ Policy Rate",
+    "actual": -0.1,
+    "forecast": -0.1,
+    "previous": -0.1,
+    "marketImpact": "کوئی تبدیلی نہیں → Neutral effect",
+    "dollar": "Stable",
+    "gold": "Stable",
+    "riskMode": "Neutral",
+    "explanation": "Bank of Japan نے اپنی interest rate -0.1% پر برقرار رکھی۔ مارکیٹ نے کوئی بڑا ردعمل نہیں دیا کیونکہ یہ already expected تھا۔"
+  }
+]
