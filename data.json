@@ -10,6 +10,7 @@
     "dollar": "Weak (down)",
     "gold": "Strong (up)",
     "riskMode": "❌ Risk Off",
+    "imageUrl": "https://drive.google.com/file/d/1Qu-2SyiSHZR_sWj6jelmFvTciu14CkSl/view?usp=drive_link",
     "explanation": "ISM Manufacturing PMI اگر 50 سے کم ہو تو Contraction کو ظاہر کرتا ہے۔ اس بار 48.7 آیا جو forecast (49.0) سے بھی کم ہے، اس لیے Dollar کمزور ہوا اور Gold اوپر گیا۔"
   },
   {
@@ -23,6 +24,7 @@
     "dollar": "Mixed",
     "gold": "Stable",
     "riskMode": "✅ Risk On",
+    "imageUrl": "https://drive.google.com/file/d/1Qu-2SyiSHZR_sWj6jelmFvTciu14CkSl/view?usp=drive_link",
     "explanation": "Eurozone CPI توقع سے کم آیا (2.5% vs 2.7%)۔ اس کا مطلب ہے ECB inflation پر قابو پا رہا ہے، اور future میں rate cuts ممکن ہیں۔"
   },
   {
@@ -36,6 +38,7 @@
     "dollar": "Weak",
     "gold": "Down",
     "riskMode": "✅ Risk On",
+    "imageUrl": "https://drive.google.com/file/d/1Qu-2SyiSHZR_sWj6jelmFvTciu14CkSl/view?usp=drive_link",
     "explanation": "UK GDP توقع سے بہتر آیا (0.6%) جو 0.5% forecast سے اوپر ہے۔ اس سے Pound مضبوط ہوا اور Gold نیچے گیا کیونکہ risk sentiment بہتر ہوا۔"
   },
   {
@@ -49,6 +52,7 @@
     "dollar": "Weak",
     "gold": "Up",
     "riskMode": "❌ Risk Off",
+    "imageUrl": "https://drive.google.com/file/d/1Qu-2SyiSHZR_sWj6jelmFvTciu14CkSl/view?usp=drive_link",
     "explanation": "NFP result 170k آیا جو forecast (180k) سے کم ہے، یہ US labor market میں slowdown کو ظاہر کرتا ہے۔ اس سے Dollar پر دباؤ آیا اور Gold اوپر گیا۔"
   },
   {
@@ -62,6 +66,7 @@
     "dollar": "Stable",
     "gold": "Stable",
     "riskMode": "Neutral",
+    "imageUrl": "https://drive.google.com/file/d/1Qu-2SyiSHZR_sWj6jelmFvTciu14CkSl/view?usp=drive_link",
     "explanation": "Bank of Japan نے اپنی interest rate -0.1% پر برقرار رکھی۔ مارکیٹ نے کوئی بڑا ردعمل نہیں دیا کیونکہ یہ already expected تھا۔"
   }
 ]
